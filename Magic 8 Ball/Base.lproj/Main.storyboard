@@ -43,7 +43,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="MagicEightBall" destination="j0p-tG-cPq" id="MN9-J2-pHc"/>
+                        <outlet property="magicEightBall" destination="j0p-tG-cPq" id="MN9-J2-pHc"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
